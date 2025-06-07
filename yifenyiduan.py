@@ -18,7 +18,7 @@ for i in prov['options']:
 print('当前批次有如下科类：')
 for i in level['options']:
     print(i['text'])
-types_str=input('请输入批次：')
+types_str=input('请输入科类：')
 types=None
 for i in level['options']:
     if types_str in i['text']:
@@ -32,12 +32,14 @@ params={
     'category': types['text'],
     'query': '一分一段'
 }
+print('正在请求数据，请耐心等待')
 res=requests.get('https://opendata.baidu.com/api.php',params=params,verify=False).json()
 seginfo=res['Result'][0]['DisplayData']['resultData']['tplData']['segmentInfo']
 seglist=[]
 for i in seginfo:
     seg=list(map(int,i['segment'].split('-')))
     seglist.append({'max':seg[0],'min':seg[1],'info':i['segList']})
+print('数据处理完成')
 while True:
     score=input('分数：')
     if score=='exit':
