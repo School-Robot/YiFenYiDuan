@@ -3,7 +3,7 @@
     "province": "上海",
     "year": "2024本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 499,
         "min": 0,
@@ -5189,7 +5189,7 @@
     "province": "上海",
     "year": "2024专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -9678,7 +9678,7 @@
     "province": "上海",
     "year": "2023本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 299,
         "min": 0,
@@ -16226,7 +16226,7 @@
     "province": "上海",
     "year": "2023专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -20107,7 +20107,7 @@
     "province": "上海",
     "year": "2022本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 299,
         "min": 0,
@@ -27829,7 +27829,7 @@
     "province": "上海",
     "year": "2022专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -31624,7 +31624,7 @@
     "province": "上海",
     "year": "2021本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 299,
         "min": 0,
@@ -39400,7 +39400,7 @@
     "province": "上海",
     "year": "2021专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -42501,7 +42501,7 @@
     "province": "上海",
     "year": "2020本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 299,
         "min": 0,
@@ -48728,7 +48728,7 @@
     "province": "上海",
     "year": "2020专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -50760,7 +50760,7 @@
     "province": "上海",
     "year": "2019",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 299,
         "min": 0,
@@ -55933,7 +55933,7 @@
     "province": "上海",
     "year": "2018",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 299,
         "min": 0,

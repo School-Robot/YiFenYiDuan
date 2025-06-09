@@ -3,7 +3,7 @@
     "province": "浙江",
     "year": "2024",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -9209,7 +9209,7 @@
     "province": "浙江",
     "year": "2023",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -17991,7 +17991,7 @@
     "province": "浙江",
     "year": "2022",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -26274,7 +26274,7 @@
     "province": "浙江",
     "year": "2021",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -35649,7 +35649,7 @@
     "province": "浙江",
     "year": "2020",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -43253,7 +43253,7 @@
     "province": "浙江",
     "year": "2019",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -49242,7 +49242,7 @@
     "province": "浙江",
     "year": "2018",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,

@@ -3,7 +3,7 @@
     "province": "天津",
     "year": "2024本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -7763,7 +7763,7 @@
     "province": "天津",
     "year": "2024专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -12494,7 +12494,7 @@
             "num": 1,
             "olds": [
               {
-                "s": "352",
+                "s": "351",
                 "y": "2023"
               },
               {
@@ -12841,7 +12841,7 @@
     "province": "天津",
     "year": "2023本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -20041,7 +20041,7 @@
     "province": "天津",
     "year": "2023专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -23375,7 +23375,7 @@
             "num": 5,
             "olds": [
               {
-                "s": "345",
+                "s": "344",
                 "y": "2022"
               },
               {
@@ -23981,7 +23981,7 @@
                 "y": "2021"
               },
               {
-                "s": "373",
+                "s": "372",
                 "y": "2020"
               }
             ],
@@ -24274,7 +24274,7 @@
     "province": "天津",
     "year": "2022本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -31052,7 +31052,7 @@
     "province": "天津",
     "year": "2022专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -35085,7 +35085,7 @@
                 "y": "2021"
               },
               {
-                "s": "356",
+                "s": "355",
                 "y": "2020"
               }
             ],
@@ -35642,7 +35642,7 @@
     "province": "天津",
     "year": "2021本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -41512,7 +41512,7 @@
     "province": "天津",
     "year": "2021专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -45075,7 +45075,7 @@
             "num": 1,
             "olds": [
               {
-                "s": "325",
+                "s": "326",
                 "y": "2020"
               }
             ],
@@ -45944,7 +45944,7 @@
     "province": "天津",
     "year": "2020本科",
     "category": "3+3综合",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -49665,7 +49665,7 @@
     "province": "天津",
     "year": "2020专科",
     "category": "语数外",
-    "segments": [
+    "seglist": [
       {
         "max": 199,
         "min": 0,
@@ -52271,7 +52271,7 @@
     "province": "天津",
     "year": "2019",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -59910,7 +59910,7 @@
     "province": "天津",
     "year": "2019",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -66268,7 +66268,7 @@
     "province": "天津",
     "year": "2018",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -70855,7 +70855,7 @@
     "province": "天津",
     "year": "2018",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,

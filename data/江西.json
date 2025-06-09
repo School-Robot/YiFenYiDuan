@@ -3,7 +3,7 @@
     "province": "江西",
     "year": "2024",
     "category": "物理类",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -5250,7 +5250,7 @@
     "province": "江西",
     "year": "2024",
     "category": "历史类",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -10378,7 +10378,7 @@
     "province": "江西",
     "year": "2023本科",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -22161,7 +22161,7 @@
     "province": "江西",
     "year": "2023本科",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -33783,7 +33783,7 @@
     "province": "江西",
     "year": "2022本科",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -44238,7 +44238,7 @@
     "province": "江西",
     "year": "2022本科",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -54904,7 +54904,7 @@
     "province": "江西",
     "year": "2021本科",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -66992,7 +66992,7 @@
     "province": "江西",
     "year": "2021本科",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -78771,7 +78771,7 @@
     "province": "江西",
     "year": "2020本科",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -89476,7 +89476,7 @@
     "province": "江西",
     "year": "2020本科",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -98852,7 +98852,7 @@
     "province": "江西",
     "year": "2019",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -107305,7 +107305,7 @@
     "province": "江西",
     "year": "2019",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -114894,7 +114894,7 @@
     "province": "江西",
     "year": "2018",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -121143,7 +121143,7 @@
     "province": "江西",
     "year": "2018",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,

@@ -3,7 +3,7 @@
     "province": "安徽",
     "year": "2024",
     "category": "物理类",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -4586,7 +4586,7 @@
     "province": "安徽",
     "year": "2024",
     "category": "历史类",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -8960,7 +8960,7 @@
     "province": "安徽",
     "year": "2023",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -18817,7 +18817,7 @@
     "province": "安徽",
     "year": "2023",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -29486,7 +29486,7 @@
     "province": "安徽",
     "year": "2022",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -38740,7 +38740,7 @@
     "province": "安徽",
     "year": "2022",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -49007,7 +49007,7 @@
     "province": "安徽",
     "year": "2021",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -60654,7 +60654,7 @@
     "province": "安徽",
     "year": "2021",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -71196,7 +71196,7 @@
     "province": "安徽",
     "year": "2020",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -80888,7 +80888,7 @@
     "province": "安徽",
     "year": "2020",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -88913,7 +88913,7 @@
     "province": "安徽",
     "year": "2019",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -96343,7 +96343,7 @@
     "province": "安徽",
     "year": "2019",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -102522,7 +102522,7 @@
     "province": "安徽",
     "year": "2018",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -107223,7 +107223,7 @@
     "province": "安徽",
     "year": "2018",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,

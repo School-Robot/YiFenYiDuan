@@ -3,7 +3,7 @@
     "province": "内蒙古",
     "year": "2024",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -9941,7 +9941,7 @@
             "num": 3,
             "olds": [
               {
-                "s": "683",
+                "s": "684",
                 "y": "2023"
               },
               {
@@ -10018,7 +10018,7 @@
                 "y": "2022"
               },
               {
-                "s": "682",
+                "s": "681",
                 "y": "2021"
               }
             ],
@@ -10056,7 +10056,7 @@
             "num": 1,
             "olds": [
               {
-                "s": "691",
+                "s": "689",
                 "y": "2023"
               },
               {
@@ -10217,7 +10217,7 @@
     "province": "内蒙古",
     "year": "2024",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -19892,7 +19892,7 @@
                 "y": "2023"
               },
               {
-                "s": "620",
+                "s": "619",
                 "y": "2022"
               },
               {
@@ -20072,7 +20072,7 @@
     "province": "内蒙古",
     "year": "2023",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -29629,7 +29629,7 @@
     "province": "内蒙古",
     "year": "2023",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -37837,7 +37837,7 @@
                 "y": "2022"
               },
               {
-                "s": "652",
+                "s": "653",
                 "y": "2021"
               },
               {
@@ -37994,7 +37994,7 @@
     "province": "内蒙古",
     "year": "2022",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -48933,7 +48933,7 @@
     "province": "内蒙古",
     "year": "2022",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -58811,7 +58811,7 @@
     "province": "内蒙古",
     "year": "2021",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -70193,7 +70193,7 @@
     "province": "内蒙古",
     "year": "2021",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -80809,7 +80809,7 @@
     "province": "内蒙古",
     "year": "2020",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -90429,7 +90429,7 @@
     "province": "内蒙古",
     "year": "2020",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -99331,7 +99331,7 @@
     "province": "内蒙古",
     "year": "2019",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -106549,7 +106549,7 @@
     "province": "内蒙古",
     "year": "2019",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -113048,7 +113048,7 @@
     "province": "内蒙古",
     "year": "2018",
     "category": "理科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
@@ -117455,7 +117455,7 @@
     "province": "内蒙古",
     "year": "2018",
     "category": "文科",
-    "segments": [
+    "seglist": [
       {
         "max": 399,
         "min": 0,
